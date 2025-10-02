@@ -68,17 +68,17 @@ WHERE quantity < 10
 ORDER BY quantity ASC;
 
 -- Query 10: Average Price of Menu Items
-SELECT m.menuid, m.menu_name, AVG(s.price) AS avg_price
+SELECT m.menuid, m.item, AVG(s.price) AS avg_price
 FROM menu m
 JOIN sales s ON m.menuid = s.menuid
-GROUP BY m.menuid, m.menu_name
+GROUP BY m.menuid, m.item
 ORDER BY avg_price DESC;
 
 -- Query 11: Menu With Prices
-SELECT m.menuid, m.menu_name, AVG(s.price) AS avg_price
+SELECT m.menuid, m.item, AVG(s.price) AS avg_price
 FROM menu m
 JOIN sales s ON m.menuid = s.menuid
-GROUP BY m.menuid, m.menu_name
+GROUP BY m.menuid, m.item
 ORDER BY avg_price DESC;
 
 -- Query 12: Daily Sales Summary
