@@ -1,0 +1,39 @@
+ItemID,Item,Size,Quantity,Price,Unit_Price,Order_Date
+1,Howdy Ken,Medium,42,6.5,6.5,2025-09-15 00:00:00
+2,Cold Brew,Medium,38,4.35,4.35,2025-09-28 00:00:00
+3,Cold Brew Slush,Medium,25,6.35,6.35,2025-09-28 00:00:00
+4,KF Milk Tea,Medium,60,4.75,4.75,2025-09-30 00:00:00
+5,Lavendar Milk Tea,Medium,15,4.95,4.95,2025-09-30 00:00:00
+6,Thai Milk Tea,Medium,33,4.75,4.75,2025-09-30 00:00:00
+7,Coffee Milk Tea,Medium,37,4.95,4.95,2025-09-30 00:00:00
+8,Strawberry Milk Tea,Medium,41,4.95,4.95,2025-09-30 00:00:00
+9,Honey Milk Tea,Medium,22,4.95,4.95,2025-09-26 00:00:00
+10,Taro Milk Green Tea,Medium,40,4.95,4.95,2025-09-28 00:00:00
+11,Mango Milk Tea,Medium,40,4.95,4.95,2025-09-29 00:00:00
+12,Peach Milk Tea,Medium,32,4.95,4.95,2025-09-27 00:00:00
+13,Malted Thai Milk Tea,Medium,18,4.75,4.75,2025-09-25 00:00:00
+14,Malted Oolong Milk Tea,Medium,24,4.75,4.75,2025-09-27 00:00:00
+15,Caramel Milk Tea,Medium,33,4.75,4.75,2025-09-27 00:00:00
+16,Strawberry Milk Slush,Medium,15,5.75,5.75,2025-09-29 00:00:00
+17,Pina Colada Slush,Medium,14,5.75,5.75,2025-09-29 00:00:00
+18,Dragonfruit Slush,Medium,22,6.3,6.3,2025-09-29 00:00:00
+19,Tropical Slush,Medium,22,6.05,6.05,2025-09-22 00:00:00
+20,Howdy Ken,Large,42,7.1,7.1,2025-09-15 00:00:00
+21,Cold Brew,Large,38,4.95,4.95,2025-09-28 00:00:00
+22,Cold Brew Slush,Large,25,6.95,6.95,2025-09-28 00:00:00
+23,KF Milk Tea,Large,60,5.35,5.35,2025-09-30 00:00:00
+24,Lavendar Milk Tea,Large,15,5.55,5.55,2025-09-30 00:00:00
+25,Thai Milk Tea,Large,33,5.35,5.35,2025-09-30 00:00:00
+26,Coffee Milk Tea,Large,37,5.55,5.55,2025-09-30 00:00:00
+27,Strawberry Milk Tea,Large,41,5.55,5.55,2025-09-30 00:00:00
+28,Honey Milk Tea,Large,22,5.55,5.55,2025-09-26 00:00:00
+29,Taro Milk Green Tea,Large,40,5.55,5.55,2025-09-28 00:00:00
+30,Mango Milk Tea,Large,40,5.55,5.55,2025-09-29 00:00:00
+31,Peach Milk Tea,Large,32,5.55,5.55,2025-09-27 00:00:00
+32,Malted Thai Milk Tea,Large,18,5.35,5.35,2025-09-25 00:00:00
+33,Malted Oolong Milk Tea,Large,24,5.35,5.35,2025-09-27 00:00:00
+34,Caramel Milk Tea,Large,33,5.35,5.35,2025-09-27 00:00:00
+35,Strawberry Milk Slush,Large,15,6.35,6.35,2025-09-29 00:00:00
+36,Pina Colada Slush,Large,14,6.35,6.35,2025-09-29 00:00:00
+37,Dragonfruit Slush,Large,22,6.9,6.9,2025-09-29 00:00:00
+38,Tropical Slush,Large,22,6.65,6.65,2025-09-22 00:00:00
