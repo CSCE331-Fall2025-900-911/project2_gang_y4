@@ -43,9 +43,12 @@ for day in range(num_days):
             unit_price = inventory_prices[inventory_id]
             quantity = random.randint(1, 4)
             price = round(unit_price * quantity, 2)
+            # Generate a random time within the day
+            random_seconds = random.randint(0, 86399)  # 0 to 23:59:59
+            random_datetime = date.replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(seconds=random_seconds)
             sale_line_items.append([
                 sales_id, inventory_id, cust_id, employee_id, price, unit_price,
-                date.strftime('%Y-%m-%d'), quantity
+                random_datetime.strftime('%Y-%m-%d %H:%M:%S'), quantity
             ])
             total_sales += price
         sales.extend(sale_line_items)
